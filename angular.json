@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "proyectodeaula"
+  "defaultProject": "proyectodeaula",
+  "cli": {
+    "analytics": "15ccb26e-3655-43c5-b5f7-2eaa2fdf3646"
+  }
 }
